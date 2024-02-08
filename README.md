@@ -9,15 +9,7 @@ This webpage completes the required criteria, I hope, for the week one challenge
 N/A
 
 ## Usage
-
-    ```md
-    ![Screenshot of webpage](C:\Users\Owner\Challenge_Storm\02-Challenge\Develop\assets\images\for_class.png)
-    ```
-
-## Credits
-
-[](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-
+![Screenshot of webpage.](C:\Users\Owner\Challenge_Storm\02-Challenge\Develop\assets\images\for_class.png)
 ## License
 
 MIT License
