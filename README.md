@@ -14,6 +14,7 @@ N/A
 ## Credits
 The source code used in this repository is linked:
 [Link!](https://git.bootcampcontent.com/Ohio-State-University/OSU-VIRT-FSF-PT-01-2024-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge?ref_type=heads)
+
 [What I used to format the README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 ## License
