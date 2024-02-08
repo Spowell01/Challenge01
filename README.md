@@ -9,7 +9,13 @@ This webpage completes the required criteria, I hope, for the week one challenge
 N/A
 
 ## Usage
-![Screenshot of webpage.](C:\Users\Owner\Challenge_Storm\02-Challenge\Develop\assets\images\for_class.png)
+![Screenshot of webpage.](02-Challenge\Develop\assets\images\for_class.png)
+
+## Credits
+The source code used in this repository is linked:
+[Link!](https://git.bootcampcontent.com/Ohio-State-University/OSU-VIRT-FSF-PT-01-2024-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge?ref_type=heads)
+[What I used to format the README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
 ## License
 
 MIT License
